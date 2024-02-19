@@ -1,7 +1,7 @@
 let array1: [string, string] = ["Luciana", "Pepe"]; // meu array terá apenas 2 strings
 let array2: Array<string> = ["Luciana", "Pepe", "Ana"]; // meu array terá diversos strings
 
-let array3: [string, string, number, boolean] = ["Luciana", "Pepe", 123, true];
+let array3: [string, string, number, boolean] = ["Luciana", "Pepe", 123, true]; // tupla
 let array4: Array<string | number | boolean> = ["Luciana", 123, "Pepe", false, "Ana"];
 
 console.log(array1);
