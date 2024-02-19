@@ -14,11 +14,4 @@ var fun1 = function (value) {
     return value;
 };
 console.log(fun("Luciana"));
-// Typescript
-// npm install -g typescript
-// tsc -v
-// tsc --init
-// Plugin: Code Runner
-// npm i -g ts-node
-// ctrl + alt + n
-// tsc index.ts => converte para um arquivo .js
+
