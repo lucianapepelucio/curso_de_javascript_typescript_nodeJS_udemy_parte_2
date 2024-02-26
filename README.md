@@ -4,6 +4,8 @@
 
 ## 002 - Tipos
 
+## 003 - Classes
+
 
 
 ### Início do Curso de Javascript em 14/08/2023 até 15/02/2024
