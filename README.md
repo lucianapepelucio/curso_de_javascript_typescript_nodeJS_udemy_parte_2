@@ -6,6 +6,7 @@
 
 ## 003 - Classes
 
+- Atualmente, com JavaScript e TypeScript, ao adicionar o símbolo "#" antes de uma propriedade ou metódo, ela se torna privada por padrão. Isso reforça a encapsulação e a segurança dos dados no código.
 
 
 ### Início do Curso de Javascript em 14/08/2023 até 15/02/2024
