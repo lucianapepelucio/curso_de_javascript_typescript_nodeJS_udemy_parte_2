@@ -12,6 +12,11 @@
 - O papel das classes abstratas é servir como uma classe base para subclasses que implementam todos os membros abstratos.
 - Quando uma classe não possui membros abstratos, ela é chamada de concreta.
 
+## 004 - Interfaces
+ 
+- As interfaces Typescript definem os contratos em seu código.
+- Eles também fornecem nomes explícitos para verificação de tipo.
+
 ### Início do Curso de Javascript em 14/08/2023 até 15/02/2024
 
 ### Início do Curso de Typescript em 15/02/2024
