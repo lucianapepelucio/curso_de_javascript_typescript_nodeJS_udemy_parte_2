@@ -7,7 +7,10 @@
 ## 003 - Classes
 
 - Atualmente, com JavaScript e TypeScript, ao adicionar o símbolo "#" antes de uma propriedade ou metódo, ela se torna privada por padrão. Isso reforça a encapsulação e a segurança dos dados no código.
-
+- Classes, métodos e campos no Typescript podem ser abstratos.
+- Um método abstrato ou campo abstrato é aquele que não teve uma implementação fornecida.
+- O papel das classes abstratas é servir como uma classe base para subclasses que implementam todos os membros abstratos.
+- Quando uma classe não possui membros abstratos, ela é chamada de concreta.
 
 ### Início do Curso de Javascript em 14/08/2023 até 15/02/2024
 
