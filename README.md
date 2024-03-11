@@ -17,6 +17,9 @@
 - As interfaces Typescript definem os contratos em seu código.
 - Eles também fornecem nomes explícitos para verificação de tipo.
 
+## 005 - Namespaces
+
+
 ### Início do Curso de Javascript em 14/08/2023 até 15/02/2024
 
 ### Início do Curso de Typescript em 15/02/2024
